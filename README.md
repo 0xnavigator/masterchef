@@ -1,3 +1,3 @@
-# Chicken Bonds
+# Masterchef
 
-A minimal generalized implementation of Chicken Bonds
+A modified version of Masterchef with distribution rewards per period.
